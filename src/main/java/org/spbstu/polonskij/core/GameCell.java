@@ -1,4 +1,5 @@
-package org.spbstu.polonskij;
+package org.spbstu.polonskij.core;
+
 public final class GameCell {
     private final int x;
 
